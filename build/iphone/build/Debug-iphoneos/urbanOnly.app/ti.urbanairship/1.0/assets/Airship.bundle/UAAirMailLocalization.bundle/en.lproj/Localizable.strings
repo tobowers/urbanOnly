@@ -1,0 +1,56 @@
+/*
+ Copyright 2009-2010 Urban Airship Inc. All rights reserved.
+ 
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+ 
+ 1. Redistributions of source code must retain the above copyright notice, this
+ list of conditions and the following disclaimer.
+ 
+ 2. Redistributions in binaryform must reproduce the above copyright notice,
+ this list of conditions and the following disclaimer in the documentation 
+ and/or other materials provided withthe distribution.
+ 
+ THIS SOFTWARE IS PROVIDED BY THE URBAN AIRSHIP INC ``AS IS'' AND ANY EXPRESS OR
+ IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+ EVENT SHALL URBAN AIRSHIP INC OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+ INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+ BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+ OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ */
+"UA_Ooops" = "Ooops";
+"UA_Ooopsie" = "Ooopsie";
+"UA_App_Key_not_set" = "Application KEY and/or SECRET not set, please insert your application key from http://go.urbanairship.com into the Airship initialization located in your App Delegate's didFinishLaunching method";
+
+"UA_Message" = "Message";
+"UA_Of" = "of";
+
+"UA_OK" = "OK";
+"UA_Cancel" = "Cancel";
+"UA_View" = "View";
+
+"UA_Loading" = "Loading...";
+"UA_No_Messages" = "No Messages";
+
+"UA_Yesterday" = "Yesterday";
+"UA_Days_Ago_Format" = "%d days ago";
+
+"UA_Delete" = "Delete";
+"UA_Mark_as_Read" = "Mark as Read";
+
+/* UIAlerts */
+"UA_Mailbox_Error_Title" = "Mailbox Error";
+
+"UA_Error_Fetching_Message" = "Error fetching message from server.";
+
+"UA_Error_Fetching_Message_List" = "Error retrieving messages from server.";
+
+"UA_Remote_Notification_Title" = "Remote Notification";
+
+"UA_Inbox_Not_Ready" = "Inbox is not ready. Please try again.";
+
+"UA_Inbox_Not_Ready_Title" = "Inbox not ready";

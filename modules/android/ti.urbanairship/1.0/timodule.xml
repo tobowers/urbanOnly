@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:module
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:ti="http://ti.appcelerator.org">
+	<android:manifest>
+		<uses-permission android:name="android.permission.INTERNET"/>
+		<application>
+			<receiver android:name="com.urbanairship.push.IntentReceiver">
+				<intent-filter>
+					<action android:name="com.urbanairship.airmail.END_REGISTER"></action>
+					<action android:name="com.urbanairship.airmail.ACCEPT_PUSH"></action>
+					<action android:name="com.urbanairship.airmail.NOTIFY"></action>
+				</intent-filter>
+			</receiver>
+		</application>
+	</android:manifest>
+</ti:module>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+<id>com.toppingdesign.urbanOnly</id>
+<name>urbanOnly</name>
+<version>1.0</version>
+<publisher>topper</publisher>
+<url>http://toppingdesign.com</url>
+<description>No description provided</description>
+<copyright>2011 by topper</copyright>
+<icon>default_app_logo.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+<guid>b7ebce6e-8c16-4dc9-92b7-89e823ae40d6</guid>
+	<iphone>
+		<orientations device="iphone">
+			<orientation>Ti.UI.PORTRAIT</orientation>
+		</orientations>
+		<orientations device="ipad">
+			<orientation>Ti.UI.PORTRAIT</orientation>
+			<orientation>Ti.UI.UPSIDE_PORTRAIT</orientation>
+			<orientation>Ti.UI.LANDSCAPE_LEFT</orientation>
+			<orientation>Ti.UI.LANDSCAPE_RIGHT</orientation>
+		</orientations>
+	</iphone>
+	<android xmlns:android="http://schemas.android.com/apk/res/android">
+	</android>
+	<modules>
+	    <module version="1.0" platform="iphone">ti.urbanairship</module>
+	    <module version="1.0" platform="android">ti.urbanairship</module>
+	</modules>
+</ti:app>

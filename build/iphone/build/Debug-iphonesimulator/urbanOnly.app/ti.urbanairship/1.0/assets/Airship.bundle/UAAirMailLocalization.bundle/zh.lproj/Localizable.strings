@@ -1,0 +1,57 @@
+/*
+ Copyright 2009-2010 Urban Airship Inc. All rights reserved.
+ 
+ Redistribution and use in source and binary forms, with or without
+ modification, are permitted provided that the following conditions are met:
+ 
+ 1. Redistributions of source code must retain the above copyright notice, this
+ list of conditions and the following disclaimer.
+ 
+ 2. Redistributions in binaryform must reproduce the above copyright notice,
+ this list of conditions and the following disclaimer in the documentation 
+ and/or other materials provided withthe distribution.
+ 
+ THIS SOFTWARE IS PROVIDED BY THE URBAN AIRSHIP INC ``AS IS'' AND ANY EXPRESS OR
+ IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF
+ MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO
+ EVENT SHALL URBAN AIRSHIP INC OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT,
+ INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING,
+ BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+ DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF
+ LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE
+ OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
+ ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+ */
+ 
+"UA_Ooops" = "Ooops";
+"UA_Ooopsie" = "Ooopsie";
+"UA_App_Key_not_set" = "应用程序键和/或秘密没有设置，请从http://go.urbanairship.com插入您的应用程序的关键变成的Airship初始化位于您的App Delegate的didFinishLaunching法";
+
+"UA_Message" = "信息";
+"UA_Of" = "/";
+
+"UA_OK" = "好";
+"UA_Cancel" = "取消";
+"UA_View" = "查看";
+
+"UA_Loading" = "载入中...";
+"UA_No_Messages" = "没有信息";
+
+"UA_Yesterday" = "昨天";
+"UA_Days_Ago_Format" = "%d天前";
+
+"UA_Delete" = "删除";
+"UA_Mark_as_Read" = "标记为已读";
+
+/* UIAlerts */
+"UA_Mailbox_Error_Title" = "邮箱错误";
+
+"UA_Error_Fetching_Message" = "错误从服务器获取信息。";
+
+"UA_Error_Fetching_Message_List" = "错误从服务器检索邮件。";
+
+"UA_Remote_Notification_Title" = "远程通知";
+
+"UA_Inbox_Not_Ready" = "邮箱还未就绪，请重试一次。";
+
+"UA_Inbox_Not_Ready_Title" = "邮箱未就绪";

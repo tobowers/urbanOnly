@@ -1,0 +1,17 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+description: My module
+author: Your Name
+license: Specify your license
+copyright: Copyright (c) 2010 by Your Company
+
+
+# these should not be edited
+name: urbanairship
+moduleid: ti.urbanAirship
+guid: d00fbe22-e01d-4ca5-b11b-133155320625
+platform: iphone
+minsdk: 1.6.0

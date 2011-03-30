@@ -1,0 +1,16 @@
+#
+# this is your module manifest and used by Titanium
+# during compilation, packaging, distribution, etc.
+#
+version: 1.0
+description: Urban Airship module for push notifications
+author: Nathaniel McCallum/Appcelerator 
+license: Appcelerator Commercial License
+copyright: Copyright (c) 2010-2011 by Appcelerator, Inc.
+
+# these should not be edited
+name: urbanAirship
+moduleid: ti.urbanAirship
+guid: a3d17f8d-fbc2-4dad-b544-c81688e6b05f
+platform: android
+minsdk: 1.5.0
